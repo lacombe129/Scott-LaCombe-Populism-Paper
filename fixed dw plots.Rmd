@@ -1,39 +1,126 @@
 ---
-title: "Populism Paper"
+title: "Populist Attitudes and Support for Trump and Sanders"
 author: "Scott LaCombe"
-date: "December 15, 2016"
+date: "December 16, 2016"
 output:
   html_document: default
   pdf_document: default
 bibliography: sources.bib
 ---
+# **Introduction**  
+
+Perhaps no better quote can describe the events so far of the 2016 election than “It is a truism that the media simply cannot ignore what is newsworthy, and clearly newsworthy are the politicians who defy the existing order, with their abrasive language, public protests, and emotive issues” Perhaps no better quote can describe the events so far of the 2016 election than “It is a truism that the media simply cannot ignore what is newsworthy, and clearly newsworthy are the politicians who defy the existing order, with their abrasive language, public protests, and emotive issues” [@Magaloni2006].  The unpredictability and intensity of this election has also led many to wonder if the country is currently undergoing a political realignment or other shift. The paper theorizes that the preponderance of support for outsider candidates fits within Samuel Huntington’s [-@Huntington1983] model of the American Creed. The American public values equality, democracy, the rule of law, individualism, and liberty. Currently, the gap between these values and reality is large enough to spark national interest in reforming the system. Many voters no longer believe the establishment of either party can make these reforms, so they support outsider candidates. It is argued that support for outsider candidates represents a rejection of the perceived elite ruling class, and that populist attitudes are the expression of voters wanting to close the gap.  
+  
+The 2016 presidential election cycle has seen the rise of Donald Trump and Bernie Sanders, candidates from the right and left respectively than many pundits and political scholars classify as populist. But there has been considerable debate within the field over what defines populism [@Dornbusch1990]. Are the candidacies of Trump and Sanders really populist? Do political candidates change public sentiment and create populism, or do they merely reflect underlying sentiment among the mass public?  While true populist candidates are rare in the United States, cross-nationally right-wing candidates tend to focus on immigration and in-group national identities, while left-wing populists focus on redistribution and income inequality [@Han2014]. The survey results indicate populist attitudes to correspond with support for both outsider candidates, but they more strongly predict support for Trump. Initial findings indicate that populist attitudes are more prevalent than perceived gaps in the American Creed, but more work will need to be done. 
+  
+# **Existing Literature**
+## The American Creed 
+
+Samuel Huntington’s book, American Politics: the Promise of Disharmony, provides a foundational understanding to changes in American politics [-@Huntington1983]. Chief among his contributions is his theory of cycles of reform using American political culture as a guide. Observers have noted a few dominant trends in American political history broadly understood as the liberal democratic tradition [@Smoth1993;@Hart1955]. Huntington identifies several components of what he calls the American Creed—a shared set of values and norms among the American public. These include liberty, equality, individualism, democracy, and the rule of law. He argues that the conceptualization of what it means to be an American is adherence to these ideals. 
+
+  The America Creed represents ideals for the American identity but political institutions often failed to meet them. Sometimes the gap is sufficiently small or is ignored by the public, allowing the status quo to continue. However, when the public perceives the gap between ideals of the creed and reality as too large, creedal passions become activated and the public mobilizes to make major changes [@Huntington1983]. Mobilization of creedal passions has resulted in major changes to political institutions and parties to accommodate for citizen demands. These periods often coincide with critical, realigning elections as proposed by V.O. Key [-@Key1955]. Understand this gap is critical to understanding American political development. 
+	Huntington’s work does an exceptional job at explaining major trends in American politics, but he fails to develop a mechanism that causes the population to move from an era of hypocrisy to one of moralistic reform. Party bosses ruled for nearly 80 years after the Jacksonian era of reform, but the gap between democracy and reality was not perceived as untenable until the Progressive Era. What changed that suddenly made the reality of the environment unacceptable to the people? The same question can be asked of the civil rights movement in the 1960s and the more recent emphasis on income inequality. Many of these gaps are well documented over decades, but institutional changes happen relatively quickly and then the system returns to relative stability. Huntington’s approach gives credit to the masses for forcing reform, and argues that perceptions of the gap drive mass mobilization. Candidates and parties capitalize on the public’s passion to make electoral gains and enact change. But what causes the passion to suddenly emerge? 
+	
+##Priming 
+
+While Huntington may not have addressed mechanisms that establish salient issues, other political scientists have developed a strong body of research on the topic. One of the ways is through elites priming voters. Rather than the public recognizing a gap between the norms and values of democracy and reality, Zaller argues that public opinion is shaped by strategic politicians and parties that prime the public. Zaller [-@Zaller1992] argues that exposure to the media and elite discourse shapes opinions, and that both the quantity of information and how recently voters are exposed to it shapes what considerations are important. This is in sharp contrast to Huntington and indicates that change is driven by elites priming the public rather than capitalizing existing attitudes.  
+  Priming is even more important if one assumes most of the population lacks consistent policy views, and many of these views are often conflicting. Zaller and Chiu [-@ZallerChiu1996] further confirmed these findings through looking at media coverage of crises. Others have found that voters use shortcuts such as partisan ID and heuristics to quickly make decisions [@Redlawsk2014]. Information helps voters decide on what issues are salient and how they feel about those issues.  Voters do not have unlimited time, resources, and in many cases, the motivation to develop well informed positions on every possible issue. Elite discourse and party cues can allow voters to develop opinions relatively efficiently. 
+  
+Research of populist parties has started to recognize the importance of priming in activating populist attitudes. Right wing populist parties have been found to be dependent on the media to deliver their message to the people [@Bos2013]. Charismatic leaders of highly centralized parties will depend on the media to communicate directly with voters rather than a large organization to conduct grassroots mobilization. This is particularly the case when new leaders or parties are emerging because they rely on the media to give them a platform to spread their message and become more well-known [@McNair1995]. One way to get such coverage is through adopting populist language that can often be attention getting and outlandish. Leaders have been found to “reach a delicate balance between appearing unusual and populist, or anti-establishment, to gain news value and still appear authoritative” [@Bos2010]. Leaders must walk a fine line of saying attention getting populist rhetoric while still appearing fit for the office they are running for. Research into populist using media to prime voters is still in its early stages of development but could reveal further insight.  
+
+## Defining Populism
+
+There has been considerable debate within the field over what defines populism [@Dornbusch1990]. Part of the difficulty in constructing a concrete understanding of populism is that it is a way of understanding democracy that does not have concrete ideological foundations [@Riding2012]. Populist parties can emerge from the left (the Front for Victory in Argentina) or from the right (the National Front in France) [@Montecino2012; @Spruyt2016]. Populist parties have also been protectionists as in the case of Argentina (2003-2015), or neo-liberal as seen in Berlusconi’s terms as prime minister in Italy (1994-2013). Many U.S. observers will not be particularly surprised by this claim as the 2016 presidential nomination cycle has seen the emergence of serious right and left wing outsider challenges to the traditional parties. 
+  
+Research in the last decade has proposed four broad tenants of populism [@Spruyt2016]. The first is the existence of two homogenous groups that are defined in opposition to one another, “the people” and “the established elites.” The second is an antagonistic relationship between those two groups, where groups are divided into black and white categories with no crossover. Third, the people are viewed as virtuous and elites are scorned. Finally, only the people are considered the ultimate source of legitimacy. 
+  
+The above criteria for populist attitudes show that populism is rooted deeply in in-group identification and a belief that the masses should be the ultimate source of authority. This is dubbed “people centrism” because it is not a rejection of authority, but rather a refocusing of it on to the common man [@Spruyt2016]. In-group identification can often take the form of nationalism [@Kagwanja2009; @Rydgren2006; @Oesch2008], but can also be racialized in diverse societies, where one ethnic or racial group perceives itself as “the people” and believes other groups within a country are not part of that group [@Gerteis2003]. Research has found that in the US identification of “the people” is more strongly associated with the middle class [@Riding2012]. 
+
+Another key dimension of populists is the perception that governing institutions are failing to serve the interests of the average person [@Tolbert1996]. At their best populists tend to view elites as ineffective, and at their worst intentionally undermining the interests of the masses. For example, this election cycle has focused extensively on immigration. In a statewide poll in Iowa leading up to the Iowa caucuses, 67.9% of respondents claimed that immigration policy in the U.S. was too lenient, with only 17% feeling that policies are too strict (2015). A Pew Survey found that 76% of both Democrats and Republicans believe affluent interests have too much influence on elected officials [-@Center2015]. Some voters believe governing elites lack the fortitude to take measures to reduce illegal immigration, while others believe that illegal immigration is being allowed by elites to drive down wages and steal American jobs through economic competition among middle and low income citizens.
+  
+Richard Hofstadter’s work, The Age of Reform, presented the idea that elites in both industry and government were working together against agrarian interests [-@Hofstadter1955]. In the American context farmers and miners formed a coalition to push for major populist reform. Feelings of economic dislocation (primarily among the poor and low educated), viewing immigrants as an economic and cultural threat, and strong opposition to political corruption formed the basic tenets of the classic populist movement Their efforts were channeled through William Jennings Bryant, the only candidate to be nominated by a major party during the progressive era that is considered by many experts to be populist [@Hofstadter1955]. Therefore, to a populist, the best solution is to find ways to channel as much political power as possible through the in-group that they identify with. 
+
+Research has demonstrated that economic distress, opposition to immigration, and low trust in democratic institutions has been strongly associated with right wing populist ideas [@Doyle2011; @Norris2005; @Oesch2008]. So not all populist leaders are anti-immigrant, but economic anxiety does appear to bring negative out-group perceptions to the forefront for many populist movements. Right-wing populist parties are more prone to anti-immigrant sentiment due to feelings of cultural isolation and strong perceptions of a singular national identity. Researchers should expect supporters of the Trump campaign to exhibit more negative views of immigration than those of the Sanders campaign. 
+
+##Populism as a Political Party
+
+Further complicating understandings of populism is its relationship to elitism. Elite theory favor the elites in making governing decisions, whereas populists support “the people” [@Mudde2004]. However, when looking at elitist and populist political organizations, they share some striking characteristics. Both approaches have highly centralized parties that are personalized by strong, charismatic leaders [@Akkerman2013;@Plattner2010]. Populist parties have demonstrated a surprising amount of hierarchical tendencies for a mindset that tends to reject the status quo as too elite driven. Political parties and movements will inevitably need leaders, but one would expect populist parties to have relatively diffuse organizations keeping power concentrated at the local level, but they are heavily reliant on leaders with well-developed cults of personality. 
+
+The hierarchical tendencies can partially be explained by a high correlation between support for populist policies and authoritarian personality dispositions as observed through cross-national survey research in Europe and Latin America [@Riding2012]. Research has found overlap between some of the underlying personality traits that are activated in different environmental settings [@Spruyt2016]. Both authoritarianism and populism share a high degree of affinity for blunt language, as measured by survey research. Both authoritarian and populist leaning individuals respond strongly and positively to direct, unfiltered language. 
+
+Using country/year and country level data on income inequality in Western Europe, survey data has shown that higher income inequality tends to encourage poor people to vote for radical populist right wing parties, while discouraging wealthy voters to do the same [@Han2014]. This phenomenon was found to be more pervasive when overall economic growth was stagnating during periods of high inequality, and it is theorized that this is because voters are more strongly identifying with their economic class [@Mudde2004; @Han2014]. Intuitively this makes sense. Individuals most disaffected by a political system that has concentrated wealth among a small percentage of the population may be most likely to favor political candidates or parties outside the established power structure. Those in the lower classes feel that the political system has not been designed in a way that could help them. Lower educated individuals also are more predisposed to support populist parties. The reasons for this are two-fold. First, lower educated people on average tend to have a lower SES status, so could be attracted for the economic reasons mentioned above. Secondly, lower educated workers could be frustrated with the lack of representation in politics [@Spruyt2016]. The prevalence of politicians with at least a college degree means that they are coming from a different social class than low SES voters. The gaps in income and education further exacerbate feelings of isolation from the elite ruling class among “the people.” 
+
+##American Environmental Context
+
+Some of the same stratification that could theoretically generate populist attitudes has been observed in the US setting. First and foremost, the gap between the top income brackets and bottom brackets has continued to grow, often dramatically, over the past four decades [@Galbraith2006; @Bartels2008]. The economic downturn of the past decade has brought further attention to problems of inequality and stagnation, with Former Chairman of the Federal Reserve Alan Greenspan saying, “You cannot have a market capitalist system if there is a significant mood in the population that its rewards are unjustly distributed” [@Neckerman2004].  By virtually any measure there is a substantial economic gap between the richest and poorest Americans. The causes of the inequality have been hotly debated with some placing blame squarely on government policy [@Bartels2008], and others seeing globalization and private sector macroeconomic changes [@Garett2010]. 
+	
+On the other hand, understanding inequality through snapshots may not accurately reflect the situation that many citizens have experienced. Changing income levels can also mean that a group previously perceived as working class may grow to be middle class, or white collar, and the reverse trend can also be true [@Garett2010].  Income distributions also vary by sectors, with some areas of the economy seeing much greater levels of inequality than others [@Galbraith2009]. Understanding inequality requires researchers to take into account changes in income, overall economic growth, and the duration of inequality in a system.
+	
+At the same time the system has seen changing economic growth and inequality, the US has also seen substantial demographic transformations [@Hero2000]. The population is expected to continue to grow for the next half century. However, the US is projected to become significantly less white and with a much larger foreign born population [Kotkin2010]. Trends suggest that whites will no longer make up a majority for the first time in the nation’s history [Bureau]. So the nation is going through a period of high inequality, low economic growth, and has a large and growing foreign born population. 
+	
+# **Theory** 
+	
+The literature presented has two primary explanations for current drivers of support for outsider candidates. The first follows Huntington’s framework of the American Creed. Moralistic reform is driven by hypocrisies emerging that challenge ideals of the American Creed [Hungtington1983]. Chief among these ideals are valuing equality, but the rise in economic inequality has challenged this ideal. 
+
+When the economy is growing across all sectors, even if inequality is high voters will not feel economically distressed. 	However, the recent economic cycle has seen low growth, with growth particularly focused among the wealthiest sectors. Working class voters feel particularly economically distressed. At the same time, the country is becoming increasingly racially and ethnically diverse, leading to feelings of socio-cultural isolation among working class white voters [Center2015]. Among both parties those of lower socio-economic status tend to be more pessimistic about the economy. 
+
+The economic setting of the United States helped establish the latent attitudes that permeate particularly among lower socio-economic classes. Anxiety from economic dislocation is occurring at the same time as the nation is going through massive demographic and cultural change. The large and growing immigrant population is seen by some as the cause of the economic insecurity of the working class. Outsiders are capitalizing on voter economic anxiety and disgust with the political elite. Trump in particular is capitalizing on anti-immigrant sentiment that often arises in periods of high inequality and low growth [@Han2014].  These conditions indicate that the country is ripe for a populist leader to capitalize on public anxiety. By drawing attention to the gaps, both Sanders and Trump are capitalizing on hypocrisies in the American Creed.  Voters that see a gap in the institutions versus reality will mobilize towards candidates that highlight this problem. 
+
+Individuals that express right wing populist attitudes (anti-immigrant, nationalist) should give Trump higher ratings than the other candidates. Those that focus more on left-wing ideals (income inequality) should rate Sanders more favorably. Both candidates should be rated higher than their insider counterparts by voters that express populist sentiments because of anti-elite sentiment. 
+The other potential explanation for outsider support relies upon priming. Voters listen to elite discourse to help formulate poorly defined opinions [@Zaller1992]. The 2016 election has provided an example of two agenda setter, Donald Trump and Bernie Sanders, who have each activated emotions and provided a lot of information stimulation to voters that stem from gaps in the American Creed and identity, with a particular focus on the element of valuing equality.  Just as William Jennings Bryant and Theodore Roosevelt set the agenda and activated and organized populist attitudes in favor of reform in the Progressive Era, some candidates are now performing the same function to draw attention to the gap between ideals and reality. Support for the outsider candidates should be negatively associated with political knowledge, as those with little knowledge should be particularly responsive to both candidate’s outsider messages that have dominated the airwaves and social media. Trump’s dominance in national media coverage should this trend be particularly strong for his support. This leads to a few hypothesis:
+
+**H1**: Using Hofstadter’s explanation those with high levels of economic dislocation, anti-immigrant sentiment, and high perceptions of government corruption should be more likely to support outsider candidates.
+
+**H2**: More contemporary understandings of populist attitudes should also be associated with support for outsider candidates as these researchers  see populist scorning the elite and working to empower “the people.”
+
+**H3**: Those that perceive a greater gap in the American Creed should be more likely to support outsider candidates.
+   
+
+## **Methods and Data**
+
+**Data**
+ 
+The data to be used for the project is a 2016 American National Elections Survey Pilot study. The survey was conducted using a YouGov panel of 1,200 individuals. Voters were matched to the general US population using the 2010 American Community Survey on measures of race, gender, age, and education. Voters were also matched on interest in politics, voter registration, and turnout status using the Current Population survey of 2010. The survey was conducted from January 22-28th, 2016, just before the Iowa Caucus. 
+
+**Measuring Populism**
+
+Defining populism has been a difficult task for researchers, but pales in comparison to the debate over how best to measure populist attitudes. Unlike partisan ID, surveyors cannot ask individuals “Are you a populist?” Like many other views, individuals typically do not fall into exclusive camps of populism or non-populist, but tend to demonstrate varying degrees of populist attitudes [@Riding2012]. Theories on the causes of populism—both in the aggregate level of explaining populist electoral success and the individual level for explaining adoption of populist attitudes- have been slow to develop, particularly in the American political system. This paper will use several different models to approximate populist opinions.
+
+For all of the models presented below, the dependent variable will be feeling thermometers towards four major candidates for their respective presidential party nominations. For the Democrats, Sanders is will be the outsider candidate and Clinton is the insider, elite one. For Republicans, Trump will be the outsider and Jeb Bush will be the insider. At the time this survey was conducted, both Clinton and Bush led their respective parties in the number of endorsements from other party leaders. Feelings can range from 0 to 100, with 100 being the most positive and 0 being the most negative. 50 represents a neutral attitude. Additionally, all of the models include controls for age, se, white/non-white, employment, partisan ID, and income. 
+
+First, Hofstadter’s conceptualization of populist attitudes will be represented by a series of explanatory variables used as proxies for economic dislocation, anti-immigrant sentiment, and anti-corruption attitudes. Economic dislocation is represented by a question asking how much opportunity there is in the country or the average person to get ahead, with values ranging from 1 (none) to 5 (a great deal). Anti-immigrant sentiment is expressed through a measure asking respondents the effect of legal immigration on the US, with values ranging from 1 (Extremely bad) to 7 (extremely good). Perceptions of corruption are represented by the degree that voters favor campaign finance regulation. Values again range from 1 (oppose) to 7 (favor a great deal). 
+
+The second model is built using the conceptual framework established by recent comparative literature which highlights the antagonistic relationship between the people and elites. Three variables measure this attitude. The first is a binary variable measuring voter support from compromising to get things done or sticking to principles. Next the model includes a measure of voter support for free trade, which is perceived to benefit the elites (1=oppose, 7=support). Finally, a measure of American identity proxies the in-group importance of many populists, with values ranging from 5 (extremely important) to 1 (not at all important). 
+The third model is for the American Creed, which consists of valuing the rule of law, democracy, equality, liberty, and individualism. Valuing the rule of law is represented by the same campaign finance measure used in the first model. The degree that a voter values democracy is represented by his or her stated percent chance of voting in the 2016 election. Equality is measured by the degree to which a voter perceives the income gap relative to 20 years ago (1=much smaller, 5=much larger). Liberty is measured by asking respondents to what degree they oppose or support a requirement to vaccinate children (same 1 to 7 score as other prompts). Finally, perceptions of individualism are measured by asking voters how easy it is for an individual to improve his or her financial well-being (1 to 7 scale). 
 
 
-```{r setup, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, echo=FALSE, warning=FALSE, include = FALSE, message=FALSE, results='hide'}
+knitr::opts_chunk$set(error = TRUE)
 
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
-   
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide', error = TRUE}
+  
 if (!require(ghit)) install.packages("ghit")
    library(ghit)
    ghit::install_github("fsolt/icpsrdata")
    library(icpsrdata)
-  data <- icpsr_download(file_id= 36390, email = getOption("icpsr_email"), password = getOption("icpsr_password"), reset = FALSE, download_dir = "icpsr_data")
-
+  data <- icpsr_download(file_id= 36390, email = getOption("icpsr_email"), password = getOption("icpsr_password"), reset = FALSE, download_dir = "icpsr_data", unzip=TRUE, delete_zip = TRUE)
   
-unzip(zipfile = "36390-Zipped_package.zip")
-  
-  ANES <- import("anes_pilot_2016.sav")
-
+setwd("./icpsr_data/ICPSR_36390/DS0001")
+unzip("36390-0001-Zipped_package.zip", exdir = "./../../..")
+setwd("./../../..")
+if(!require('rio')) install.packages("rio")
+library(rio)
 #import dataset from file. Transfer from zip file to working directory
+ANES <- import("anes_pilot_2016.sav")
   
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+```{r echo=FALSE, warning=FALSE, message=FALSE, include = FALSE, results='hide'}
 # recoding commands
 
 if(!require('car')) install.packages("car")
@@ -125,7 +212,7 @@ ANES$income <- recode(ANES$faminc, "1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9;
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+```{r echo=FALSE, warning=FALSE, message=FALSE, include = FALSE, results='hide'}
 #regression models for comparative understanding
 
 
@@ -139,7 +226,7 @@ compophrc <- lm(fthrc~ freetrade+principles+ americanid+ age + Male + white + em
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+```{r echo=FALSE, warning=FALSE, message=FALSE, include = FALSE, results='hide'}
 #regression models for Huntington's Credd
 
 huntpoptrump <- lm(fttrump~ campfinance+ percent16 + inequality + vaccine + finwell + age + Male + white + employed + Republican + Conservative + income, data=ANES, weights=weight)
@@ -152,7 +239,7 @@ huntpophrc <- lm(fthrc~ campfinance+ percent16 + inequality + vaccine + finwell 
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+```{r, echo=FALSE, warning=FALSE, message=FALSE, include = FALSE, results='hide'}
 hofpoptrump <- lm(fttrump~ econnow+ immlegal+ campfinance + age + Male + white + employed+ Republican + Conservative +income + educ, data=ANES, weights=weight)
 
 hofpoprubio <- lm(ftrubio~ econnow+ immlegal+ campfinance+ age + Male + white + employed+ Republican + Conservative + income + educ, data=ANES, weights=weight)
@@ -164,32 +251,7 @@ hofpophrc <- lm(fthrc~ econnow+ immlegal+ campfinance+ age + Male + white + empl
 ```
 
 
-
-```{r echo=FALSE, warning=FALSE, message=FALSE}
-
-if(!require('stargazer')) install.packages("stargazer")
-  library(stargazer)
-if(!require('rio')) install.packages("rio")
-  library(rio)
-
-ComparativePopulist <- stargazer(compoptrump, compoprubio, compopsanders, compophrc, title="Comparative Populist Measures", single.row=TRUE,
-ci=TRUE, ci.level=0.95, align=TRUE)
-
-
-ComparativePopulism <- stargazer(compoptrump, compoprubio, compopsanders, compophrc, title="Comparative Populist Measures", single.row=TRUE,
-ci=TRUE, ci.level=0.95, align=TRUE)
-
-HuntingtonCreed <- stargazer(huntpoptrump, huntpoprubio, huntpopsanders, huntpophrc, title="Comparative Populist Measures", single.row=TRUE,
-ci=TRUE, ci.level=0.95, align=TRUE)
-
-HofstaderPopulism <- stargazer(hofpoptrump, hofpoprubio, hofpopsanders, hofpophrc, title="Comparative Populist Measures", single.row=TRUE,
-ci=TRUE, ci.level=0.95, align=TRUE)
-
-
-```
-
-
-```{r echo=FALSE}
+```{r, echo=FALSE, message=FALSE, include=FALSE}
 
 if(!require('dotwhisker')) install.packages("dotwhisker")
   library(dotwhisker)
@@ -198,6 +260,17 @@ if(!require('broom')) install.packages("broom")
 if(!require('dplyr')) install.packages("dplyr")
   library(dplyr)
 
+```
+
+# **Results**
+
+## Hofstadter’s Definition of Populism 
+
+Figure 1.1 shows the estimated feeling thermometers for four presidential candidates using Hofstadter’s classic components of populism. Economic dislocation (perceptions of the state of the economy) shows that as the economy is perceived to be worse, support for Trump increases while decreasing for Sanders and Clinton. Voters with more optimistic perspectives on the national economy feel more positive about both Democratic candidates, holding all other factors constant. Economic perceptions do not effect approval of Bush. 
+
+The measure of attitudes towards immigrants continues this trend, with positive feelings towards immigrants being associated with positive feelings towards Sanders, negative feelings towards Trump, and no effect for Bush and Clinton. Support for campaign finance reform is related to higher positive ratings for Democratic candidates. Unsurprisingly, partisan ID has the strongest association with support for all four candidates. Notably, this is the only model where whiteness loses its significance in its effect on feeling thermometer scores for Trump. 
+
+```{r, echo=FALSE, message=FALSE}
 rubiodt <- tidy(compoprubio)%>% filter(term !="(Intercept)") %>% mutate(model="Rubio") 
 trumpdt <- tidy(compoptrump)%>% filter(term !="(Intercept)") %>% mutate(model="Trump") 
 sandersdt <- tidy(compopsanders)%>% filter(term !="(Intercept)") %>% mutate(model="Sanders") 
@@ -208,14 +281,17 @@ four_models <- rbind(rubiodt, trumpdt, sandersdt, hrcdt)
 
 dwplot(four_models) + relabel_y_axis(c("Free Trade", "No Compromise", "Americand Identity", "Age", "Male", "White", "Employed", "Republicanism", "Conservatism", "Income", "Education")) + xlab("Coefficient Estimate") + 
   geom_vline(xintercept=0)+ 
-  ggtitle("Determinants of Candidate Approval") +
+  ggtitle("Figure 1.1 Comparative Populist Model") +
  xlab("Coefficient Estimate")
-    
-
 ```
 
+## Elite vs the People Model
 
-```{r}
+The next model in figure 1.2 measures attitudes favoring “the people” or the “elites.” Both of the outsider candidates have supporters that are relatively ambivalent to trade, with support or opposition to free trade not being statistically significantly different from 0 in its association with feeling thermometer support. For the insider candidates, increased support for free trade is related to increase in feeling thermometer scores. Those that oppose free trade are likely to oppose the insider candidates, while their opinions of outsider candidates are virtually unchanged.
+
+Those who support sticking to one's principles over compromise rate Trump significantly higher than the other 3 candidates, although this group rates Democrats significantly lower than Bush in this category. Both Republican candidates see higher ratings from those that view their American identity as important, although the effect is larger for Trump than Bush. Sander’s support is negatively correlated with the strength of American identity, and Clinton’s support is unchanged.  
+
+```{r, echo=FALSE, message=FALSE}
 
 rubiodt2 <- tidy(hofpoprubio)%>% filter(term !="(Intercept)") %>% mutate(model="Rubio") 
 trumpdt2 <- tidy(hofpoptrump)%>% filter(term !="(Intercept)") %>% mutate(model="Trump") 
@@ -227,13 +303,20 @@ four_models2 <- rbind(rubiodt2, trumpdt2, sandersdt2, hrcdt2)
 
 dwplot(four_models2) + relabel_y_axis(c("Current Economy", "Legal Immigration", "Campaign Finance Ref", "Age", "Male", "White", "Employed", "Republicanism", "Conservatism", "Income", "Education")) + xlab("Coefficient Estimate") + 
   geom_vline(xintercept=0)+ 
-  ggtitle("Determinants of Candidate Approval") +
+  ggtitle("Figure 1.2: Hofstadter Model of Populism") +
  xlab("Coefficient Estimate")
 
    
 ```
 
-```{r}
+
+## The American Creed
+
+Figure 1.3 estimates the relationship between components of the American Creed and support for candidates. Those that see a gap in the rule of law through the need for campaign finance reform have a more positive evaluation of Sanders and Clinton, a slightly negative opinion of Bush, and unchanged opinions towards Trump. None of the candidates have support negatively or positively associated with support for democracy (measured by the likelihood to vote in the upcoming presidential election). Those that perceive the gap income to be larger (see a gap in the ideal of equality) have more positive views of Sanders and negative views of Trump and Bush, while their feelings are unchanged towards Clinton.
+
+Those in favor of requiring individuals to be vaccinated (a proxy measure for individual liberty) are positively associated with support for both Democrats and Bush, while not related to support for Trump. As voters see a larger gap in the ideal of individualism (measured through the ability to improve their financial well-being), their opinions of the Republicans and Clinton decrease, while their opinions of Sanders increase. In other words, the less a voter believes individual work can help him or her get ahead, the more likely he or she is to support Sanders and oppose other candidates. 
+
+```{r, echo=FALSE, message=FALSE}
 
 rubiodt3 <- tidy(huntpoprubio)%>% filter(term !="(Intercept)") %>% mutate(model="Rubio") 
 trumpdt3 <- tidy(huntpoptrump)%>% filter(term !="(Intercept)") %>% mutate(model="Trump") 
@@ -245,9 +328,33 @@ four_models3 <- rbind(rubiodt3, trumpdt3, sandersdt3, hrcdt3)
 
 dwplot(four_models3) + relabel_y_axis(c("Campaign Finance Ref", "Chance of Voting", "Inequality Perception", "Vaccine Requirement", "Age", "Male", "White", "Employed", "Republicanism", "Conservatism", "Income", "Education")) + xlab("Coefficient Estimate") + 
   geom_vline(xintercept=0)+ 
-  ggtitle("Determinants of Candidate Approval") +
+  ggtitle("Figure 1.3: American Creed Gap") +
  xlab("Coefficient Estimate")
 ```
+
+
+# **Discussion of Results**
+
+Figure 1.1 indicates that the candidates are tapping into different parts of populist attitudes to gain support. Trump’s support is highly related to economic anxiety and anti-immigrant sentiment, whereas Sanders’ is primarily related to anti-corruption opinions and a desire to reform campaign finance. The oddity in this figure is that those that are unemployed view Sanders positively, but those with a more pessimistic view of the economy are likely to support Trump. One would think that unemployed people would have a more pessimistic view of the economy. This may partially be explained by the relatively high youth feelings towards Sanders. Students are coded as not-employed and potentially could be optimistic about the economy, so they could be driving this counter intuitive trend. Trump’s support skews older, so his voters may be more likely to have a job but have also had more opportunities to feel economic anxiety from the economy. 
+	
+By Hofstadter’s model, support for Trump could most likely be considered “populist” because it combines economic anxiety with anti-immigrant sentiment. That being said, this measure for anti-corruption feelings may be picking up more on partisan views on campaign finance more than overall disdain of corruption/trust. A broader question on corruption could yield further insights to see if Trump supporters disproportionately express these three conditions laid out of populist leaders. As for Sanders, the measure of economic dislocation may also be suffering from partisan bias due to an incumbent Democratic president, but the results for perceptions of legal immigration do demonstrate that his base is not strongly identifying with in-group dynamics. Only on the measure of legal immigration does Sander’s differ significantly from the insider candidate, whereas Trump and Bush differ on all three. 
+
+The definition of populist relating to the relationship between elites and the people also shows some interesting findings. Despite their rhetoric against NAFTA and the TPP, neither outsider candidate sees his support significantly related with opposition to free trade in the broad sense. This may partially be due to free trade being a rather ambiguous term, whereas support for specific free trade agreements may vary. On the other two measures used her to gage elite vs the people sentiment, those with positive feelings towards Trump clearly express more populist attitudes. Research has found that those with populist attitudes tend to value principles over compromise, because compromise is seen as giving in to elite demands [@Riding2012]. This category stands out more than others in this model because of the sharp contrast between the results for Trump versus the other three candidates, which all see negative ratings from voters that value principles over compromise. The third measure, American identity importance, also shows that support for Trump is related to nationalist sentiment, a view that is expected in the literature from populist parties (Kagwanja, 2009; Rydgren, 2006; Oesch, 2008). Support for Sanders has more in common with the insider candidates, particularly the emphasis among his supporters of compromise being more important than sticking to principles. Left-wing populist movements are not associated with anti-immigrant sentiment, but do typically still rely on national identity to gain supporters. 
+
+The implication of both of these models indicates that support for Trump is based on more conventionally understood populist attitudes. His supporters have a strong national identity, feel economically dislocated, and feel negatively towards immigration compared to those that support Bush, Sanders, and Clinton. Those that view compromise negatively are also more likely to view Trump negatively because compromise is viewed as selling out to the elites. The Sanders campaign has populist appeals, but less consistently so.
+	
+Testing the American Creed with support for the candidates gives largely inconclusive results. Support for Sanders is related with perceptions of a gap in the rule of law, equality, and individualism, whereas these supporters are less likely to see gaps in democracy and liberty. Clinton supporters share these same concerns with the exception of equality. Trump and Bush supporters are generally unconcerned about a gap in the rule of law, democracy, equality, and individualism. However, they differ on the importance of liberty. It makes sense that those that believe individual hardwork can help a person improve their financial wellbeing also are less concerned about income inequality because the literature shows that inequality only is perceived as a serious problem politically when the lower classes do not believe they can get ahead [@Han2014]. There appears to be some partisan activation for these issues, as the insider and outsider candidates for both parties generally see the same partisan relationship between each issue and feeling thermometer scores. 
+	
+Part of the difficulty in interpreting the results for this model is that the measurements could be improved. Are voters thinking about individual liberty when asked about the vaccine requirement, or are they viewing it as a public helath issue? Also, perhaps campaign finance reform is not quite getting at valuing the rule of law because current campaign spending is legal, although derided by many in both parties. However, given the results of this data, support for outsider candidates has been shown to be based upon populist attitudes moreso than a perceived gap in the American Creed between institutions and reality.
+
+# **Conclusion**
+
+The 2016 election has seen the rise of major outsider candidates challenging the establishment elites of both the Republican and Democratic Party. This paper aimed to establish a link between populist attitudes, the American Creed, and support for outsider candidates. Through use of survey data from the 2016 American National Election Survey, a number of potential explanatory variables for positive feelings toward candidates were analyzed. It was theorized that both having populist attitudes and perceiving a gap between the values of the American Creed (rule of law, democracy, equality, individualism and liberty) would correspond to voters being more supportive of outsider candidates that are pushing for more radical change and challenge the status quo. 
+
+The results indicate that the support for Donald Trump is related to characteristics that typically define right-wing populist parties. These include feelings of economic dislocation, viewing immigrants as a potential economic threat, valuing principles over compromise, and having a strong sense of national identity. Support for the Sanders campaign is less rooted in national identity or economic dislocation but is related to perceived income inequality. At the same time both candidates are relying upon a base of white voters, so there could be an element of identity not being picked up by the measures of Bernie supporters. Trump’s base of support can more clearly be labeled as populist. 
+
+At the same time, perceiving gaps in the American Creed does not appear to be strongly related with support for any of the four candidates overall. The results indicate that the differences in perception of the gap and support for candidates falls more along a partisan basis than insider/outsider or populist/non-populists. Democrats are more likely to view campaign finance reform as important in evaluating candidates, whereas those supporting Republicans tend to value individualism. Further research needs to be conducted with more specific measures to gage attitudes on the American creed.
+
 
 #References
 
